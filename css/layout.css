@@ -2645,6 +2645,18 @@ transform: scale(1.1);
 
 }
 
+@media (max-width: 480px) {
+
+	.contact-info {
+		padding-left: 30px;
+		margin-top: 40px;
+		float: none;
+		width: 100%;
+		margin-bottom: 6em;
+	}
+
+}
+
 /* - Pricing */
 .pricing-items {
 	margin: 0 -20px;
