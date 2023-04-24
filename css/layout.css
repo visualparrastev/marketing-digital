@@ -2981,6 +2981,11 @@ iframe, object {
 
 }
 
+@media (max-width: 1200px) {
+.popup-box {
+    width: 960px;
+    min-height: 860px;
+}}
 
 @media (max-width: 720px) {
 .popup-box {
@@ -2990,7 +2995,7 @@ iframe, object {
 
 @media (max-width: 480px) {
 	.popup-box {
-		width: 320px;
+		width: 100%;
 	}
 
 }
