@@ -721,6 +721,14 @@ color: white;
 }
 
 @media (max-width: 1199px) {
+	.content-carousel .navsnew {
+	top: 85%;
+	right: 5%;
+}
+
+}
+
+@media (max-width: 1199px) {
 	.section {
 		padding-left: 30px;
 		padding-right: 30px;
@@ -2636,15 +2644,6 @@ transform: scale(1.1);
 
 }
 
-@media (max-width: 480px) {
-
-	.contact-info {
-		padding: 50px;
-		padding-left: 30px;
-	}
-
-}
-
 /* - Pricing */
 .pricing-items {
 	margin: 0 -20px;
@@ -2981,24 +2980,18 @@ iframe, object {
 
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1199px) {
 .popup-box {
-    width: 960px;
+    width: 720px;
     min-height: 860px;
 }}
 
 @media (max-width: 720px) {
 .popup-box {
-    width: 520px;
+    width: 100%;
     min-height: 860px;
 }}
 
-@media (max-width: 480px) {
-	.popup-box {
-		width: 100%;
-	}
-
-}
 
 .popup-box .image {
 
