@@ -2629,10 +2629,18 @@ transform: scale(1.1);
 
 	.contact-info {
 		margin-top: 40px;
-		padding-left: 30px;
 		float: none;
 		width: 100%;
 		margin-bottom: 6em;
+	}
+
+}
+
+@media (max-width: 480px) {
+
+	.contact-info {
+		padding: 50px;
+		padding-left: 30px;
 	}
 
 }
