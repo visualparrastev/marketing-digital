@@ -2590,7 +2590,7 @@ transform: scale(1.1);
 
 .section.contacts .alert-success p {
 	font-size: 14px;
-	color: #FFF;
+	color: #green;
 }
 
 
@@ -2612,9 +2612,9 @@ transform: scale(1.1);
 	top: -5px;
 	font-size: 12px;
 	line-height: 12px;
-	color: #FFF;
+	color: #0048F1;
 	font-weight: 800;
-	background: #373b40;
+	background: white;
 	text-transform: uppercase;
 	z-index: 2;
 }
