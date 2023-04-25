@@ -507,7 +507,7 @@ textarea {
 input:focus,
 textarea:focus,
 button:focus {
-	color: #FFF;
+	color: black;
 }
 
 
@@ -562,25 +562,25 @@ input[type="radio"] {
 
 input:focus::-webkit-input-placeholder,
 textarea:focus::-webkit-input-placeholder {
-	color: #FFF;
+	color: black;
 }
 
 
 input:focus:-moz-placeholder,
 textarea:focus:-moz-placeholder {
-	color: #FFF;
+	color: black;
 }
 
 
 input:focus::-moz-placeholder,
 textarea:focus::-moz-placeholder {
-	color: #FFF;
+	color: black;
 }
 
 
 input:focus:-ms-input-placeholder,
 textarea:focus:-ms-input-placeholder {
-	color: #FFF;
+	color: black;
 }
 
 
