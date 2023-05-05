@@ -35,8 +35,8 @@ body {
 	padding: 0;
 	border: none;
 	font-family: "Poppins";
-	font-size: 14px;
-	line-height: 26px;
+	font-size: 13px;
+	line-height: 28px;
 	color: black;
 	background: white;
 	letter-spacing: 0;
@@ -271,7 +271,8 @@ h6 {
 
 
 p {
-	font-size: 14px;
+	font-size: 13px;
+	line-height: 24px;
 	padding: 0;
 	margin: 30px 0;
 }
@@ -485,7 +486,7 @@ textarea {
 	padding: 0 30px;
 	display: block;
 	font-family: "Poppins";
-	font-size: 14px;
+	font-size: 12px;
 	height: 64px;
 	width: 100%;
 	color: black;
@@ -507,7 +508,7 @@ textarea {
 input:focus,
 textarea:focus,
 button:focus {
-	color: black;
+	color: gray;
 }
 
 
